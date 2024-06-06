@@ -1,0 +1,35 @@
+element.style {
+}
+._5mdd {
+    word-wrap: break-word;
+}
+
+._56q9 {
+    font-size: 14px;
+    line-height: 1.358;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+body.plugin {
+    background: transparent;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.28;
+    overflow: hidden;
+    -webkit-text-size-adjust: none;
+}
+.plugin, .plugin button, .plugin input, .plugin label, .plugin select, .plugin td, .plugin textarea {
+    font-size: 11px;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+body {
+    background: #fff;
+    color: #ffffff;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
